@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12px"
+   height="12px"
+   viewBox="0 0 12 12"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="stop.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>stop</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="625"
+     inkscape:window-height="1041"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="7.4245693"
+     inkscape:cy="16.229577"
+     inkscape:window-x="3205"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" />
+  <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">stop</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Icons"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="Rounded"
+       transform="translate(-106.000000, -1044.000000)">
+      <g
+         id="AV"
+         transform="translate(100.000000, 852.000000)">
+        <g
+           id="-Round-/-AV-/-stop"
+           transform="translate(0.000000, 186.000000)">
+          <g
+             id="g8">
+            <rect
+               id="Rectangle-Copy-74"
+               x="0"
+               y="0"
+               width="24"
+               height="24" />
+            <path
+               d="M8,6 L16,6 C17.1,6 18,6.9 18,8 L18,16 C18,17.1 17.1,18 16,18 L8,18 C6.9,18 6,17.1 6,16 L6,8 C6,6.9 6.9,6 8,6 Z"
+               id="🔹Icon-Color"
+               fill="#1D1D1D" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke-width:0.99999994"
+     d="M 1.1641725,11.751496 C 0.70375436,11.524539 0.25381149,10.98211 0.12299882,10.49631 0.04979978,10.224469 0.0227885,8.6468167 0.04244836,5.7915843 L 0.0720269,1.4958471 0.35155266,1.020342 C 0.56321853,0.66027424 0.76301942,0.48028411 1.1745644,0.2789339 l 0.543486,-0.26590292 4.4142764,0.02954365 c 4.9631822,0.03321733 4.7527182,0.0011059 5.4204442,0.82702231 l 0.315866,0.39069896 0.02843,4.6291325 0.02843,4.6291326 -0.259948,0.443567 c -0.153516,0.261955 -0.439459,0.548768 -0.698383,0.700508 l -0.438436,0.25694 -4.5164883,-0.0023 c -3.9401465,-0.002 -4.5588018,-0.02317 -4.8480722,-0.165764 z"
+     id="path4530"
+     inkscape:connector-curvature="0" />
+</svg>

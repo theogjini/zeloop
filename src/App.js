@@ -1,23 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
+import LoopBox from './LoopBox/LoopBox.js';
 import './App.css';
 
 function App() {
+
+  // async function getFirstApi(event) {
+  //   event.preventDefault();
+  //   const req = await fetch('/api');
+  //   const parsed = await req.json();
+  //   if (parsed.success) {
+  //     alert("Hello from api server!!!")
+  //   }
+  // };
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {/* <button onClick={getFirstApi}>Hello world</button> */}
+        <LoopBox />
       </header>
     </div>
   );
