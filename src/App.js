@@ -1,9 +1,8 @@
-import React from 'react';
-import LoopBox from './LoopBox/LoopBox.js';
-import './App.css';
+import React from "react";
+import LoopBox from "./LoopBox/LoopBox.jsx";
+import "./App.css";
 
 function App() {
-
   // async function getFirstApi(event) {
   //   event.preventDefault();
   //   const req = await fetch('/api');
